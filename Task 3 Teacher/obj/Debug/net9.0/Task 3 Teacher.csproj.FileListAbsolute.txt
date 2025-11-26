@@ -1,0 +1,15 @@
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\bin\Debug\net9.0\Task 3 Teacher.exe
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\bin\Debug\net9.0\Task 3 Teacher.deps.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\bin\Debug\net9.0\Task 3 Teacher.runtimeconfig.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\bin\Debug\net9.0\Task 3 Teacher.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\bin\Debug\net9.0\Task 3 Teacher.pdb
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.AssemblyInfoInputs.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.AssemblyInfo.cs
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.csproj.CoreCompileInputs.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.sourcelink.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\refint\Task 3 Teacher.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.pdb
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\Task 3 Teacher.genruntimeconfig.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3 Teacher\obj\Debug\net9.0\ref\Task 3 Teacher.dll
