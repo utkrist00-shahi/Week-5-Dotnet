@@ -1,0 +1,15 @@
+D:\dotnet tutorial\Week 5 Workshop\Task 3\bin\Debug\net9.0\Task 3.exe
+D:\dotnet tutorial\Week 5 Workshop\Task 3\bin\Debug\net9.0\Task 3.deps.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3\bin\Debug\net9.0\Task 3.runtimeconfig.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3\bin\Debug\net9.0\Task 3.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3\bin\Debug\net9.0\Task 3.pdb
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.AssemblyInfoInputs.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.AssemblyInfo.cs
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.csproj.CoreCompileInputs.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.sourcelink.json
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\refint\Task 3.dll
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.pdb
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\Task 3.genruntimeconfig.cache
+D:\dotnet tutorial\Week 5 Workshop\Task 3\obj\Debug\net9.0\ref\Task 3.dll
